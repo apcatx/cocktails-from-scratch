@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+  </style>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <title>APC Classic Cocktails</title>
+</head>
+<body>
+  <div class="background-1">
+    <div class="header-1">
+      <h1>austin's top ten...</h1>
+    </div>
+  </div>
+  <div class="apcFavorites">
+    {{ #classics }}
+    <div class="displayClassics">
+      <div class="content">
+        <div class="content-overlay"></div>
+        <img class="content-image" src="photos/{{ image }}" />
+        <div class="content-details fadeIn-bottom">
+          <h3 class="content-title">{{ name }}</h3>
+        </div>
+      </div>
+    </div>
+    {{ /classics }}
+  </div>
+  <div class="background-2">
+    <div class="header-2">
+      <h1>startender</h1>
+      <h2>cocktail of the week...</h2>
+    </div>
+  </div>
+  <div class="newstar">
+    <div class="startender">
+      <div class="content">
+        <div class="content-overlay"></div>
+        <img class="content-image" src="" />
+        <div class="content-details fadeIn-bottom">
+          <h3 class="content-title"></h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="background-3">
+    <div class="header-3">
+      <h1>dealers choice...</h1>
+      <p>submit a cocktail of your choice...</p>
+      <form class="submitDrink" action="" method="post">
+        <label for="firstname">first name</label>
+        <input type="text" name="firstname" placeholder="First Name" value=""/>
+        <label for="lastname">last name</label>
+        <input type="text" name="lastname" placeholder="Last Name"value="">
+        <button type="submit" name="button">done.</button>
+      </form>
+    </div>
+  </div>
+</body>
+
+</html>

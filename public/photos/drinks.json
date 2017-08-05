@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Alaska",
+    "image": "alaska.png",
+    "history": "This gin cocktail, made with Yellow Chartreuse and orange bitters, “dances between spirit-driven and citrus-forward,” according to Keli Rivers of San Francisco’s Whitechapel. “It’s good, moving from one side of the spectrum to the other.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "1 1/2 oz",
+      "name": " Bombay Sapphire",
+      "type": "Gin"
+    }, {
+      "quantity": "1/2 oz",
+      "name": " Yellow Chartreuse",
+      "type": "Liqueur"
+    }, {
+      "quantity": "1 dash",
+      "name": " Orange Bitters",
+      "type": "Bitters"
+    }],
+    "garnish": "Lemon peel",
+    "glass": "Coupe",
+    "steps": ["Add all of the ingredients to a mixing glass with ice.", "Stir until chilled.", "Strain into a chilled coupe glass.", "Express the oil of a lemon peel over the drink.", "Garnish with that lemon peel."],
+    "flavor": "Spirit-forward",
+    "baseSpirit": "Gin",
+    "served": "Up",
+    "preparation": "Stirred",
+    "strength": "Medium"
+  },
+  {
+    "name": "Negroni",
+    "image": "negroni.png",
+    "history": "This three-ingredient Italian cocktail is as classic as a drink can get.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "1 oz",
+      "name": " Campari",
+      "type": "Apertif"
+    }, {
+      "quantity": "1 oz",
+      "name": " Hendricks",
+      "type": "Gin"
+    }, {
+      "quantity": "1 oz",
+      "name": " Martini Sweet Vermouth",
+      "type": "Vermouth"
+    }],
+    "garnish": "Orange half-wheel",
+    "glass": "Old Fashioned",
+    "steps": ["Measure all of the ingredients and add them to the Old Fashioned glass.", "Add ice or an ice ball.", "Stir until cold.", "Garnish with an orange half-wheel."],
+    "flavor": "Sweet",
+    "baseSpirit": "Gin",
+    "served": "On the Rocks",
+    "preparation": "Stirred",
+    "strength": "Medium"
+  },
+  {
+    "name": "Bramble",
+    "image": "bramble.png",
+    "history": "Famed bartender Dick Bradsell invented this classic at Fred’s Club in London’s Soho in the ’80s, inspired by the fresh blackberries he used to get as a child on the Isle of Wight.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "2 oz",
+      "name": " Beefeater Gin",
+      "type": "Gin"
+    }, {
+      "quantity": "1 oz",
+      "name": " Freshly squeezed lemon juice",
+      "type": "juice"
+    }, {
+      "quantity": "2 bar spoons",
+      "name": " Simple syrup",
+      "type": "sugar"
+    }, {
+      "quantity": "1/2 oz",
+      "name": " Crème de mure",
+      "type": "Liqueur"
+    }],
+    "garnish": "Lemon half-wheel",
+    "glass": "Old Fashioned",
+    "steps": ["Add the gin, lemon juice and simple syrup in a shaker with ice and shake.", "Fine-strain into an Old Fashioned glass over crushed ice.", "Lace over top with the creme de mure.", "Garnish with a lemon half-wheel and a fresh blackberry."],
+    "flavor": "Fruity/Citrus-forward",
+    "baseSpirit": "Gin",
+    "served": "On the Rocks",
+    "preparation": "Shaken",
+    "strength": "Medium"
+  },
+  {
+    "name": "Kir Royale",
+    "image": "kir-royale.png",
+    "history": "The best-known Champagne cocktail, the Kir Royale, turns any glass of bubbly into a special occasion.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "1/2 oz",
+      "name": " Crème de Cassis",
+      "type": "Liquer"
+    }, {
+      "quantity": "",
+      "name": "Cupcake Vineyards Prosecco D.O.C.",
+      "type": "Prosecco"
+    }],
+    "garnish": "Long lemon twist",
+    "glass": "Champagne flute",
+    "steps": ["Add the crème de cassis to a Champagne flute.", "Top with the sparkling wine."],
+    "flavor": "Bubbly",
+    "baseSpirit": "Crème de Cassis",
+    "served": "Up",
+    "preparation": "",
+    "strength": "Light"
+  },
+  {
+    "name": "Caipirinha",
+    "image": "caipirinha.png",
+    "history": "Our classic Caipirinha recipe instantly transports you to a beach in Rio.",
+    "cocktailType": ["Classic", "Tiki", "Tropical"],
+    "ingredients": [{
+      "quantity": "2 oz",
+      "name": " Leblon Cachaça",
+      "type": "Cachaça"
+    }, {
+      "quantity": "2 tsp",
+      "name": " Granulated White Sugar",
+      "type": "Sugar"
+    }, {
+      "quantity": "1/2",
+      "name": " Fresh Lime",
+      "type": "Fruit"
+    }],
+    "garnish": "Lime wheel",
+    "glass": "Double Old Fashioned",
+    "steps": ["In a double Old Fashioned glass, muddle the sugar and lime.", "Fill with ice and add the cachaça.", "Stir briefly.", "Garnish with a lime wheel."],
+    "flavor": ["Fruity", "Citrus-forward", "Sour", "Sweet"],
+    "baseSpirit": "Cachaça",
+    "served": "On the Rocks",
+    "preparation": "Stirred",
+    "strength": "Strong"
+  },
+  {
+    "name": "Boulevardier",
+    "image": "boulevardier.png",
+    "history": "This classic three-ingredient cocktail is the rye whiskey version of a Negroni.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "1 1⁄2 oz",
+      "name": " Templeton Rye",
+      "type": "Rye Whiskey"
+    }, {
+      "quantity": "1 1⁄2 oz",
+      "name": " Carpano Antica Formula",
+      "type": "Vermouth"
+    }, {
+      "quantity": "3⁄4 oz",
+      "name": " Campari",
+      "type": "Apertif"
+    }],
+    "garnish": "Orange peel",
+    "glass": "Old Fashioned",
+    "steps": ["Fill a mixing glass with ice, add all of the ingredients.", "Stir until diluted and chilled for about 30 stirs", "Strain and serve up or on the rocks.", "Garnish with an expressed orange peel."],
+    "flavor": "Spirit-forward",
+    "baseSpirit": "Rye Whiskey",
+    "served": ["On the Rocks", "Up"],
+    "preparation": "Stirred",
+    "strength": "Strong"
+  },
+  {
+    "name": "Bourbon Milk Punch",
+    "image": "bourbon-milk-punch.png",
+    "history": "This classic brunch cocktail hails from New Orleans.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "2 oz",
+      "name": " Woodford Reserve",
+      "type": "Bourbon"
+    }, {
+      "quantity": "3 oz",
+      "name": " Whole Milk",
+      "type": "Dairy"
+    }, {
+      "quantity": "1 oz",
+      "name": " Simple syrup",
+      "type": "Sugar"
+    }, {
+      "quantity": "2 dashes",
+      "name": " Vanilla extract",
+      "type": "Extract"
+    }],
+    "garnish": "Grated nutmeg",
+    "glass": "Rocks",
+    "steps": ["Add all ingredients to a shaker with ice, and shake until chilled.", "Strain into a rocks glass.", "Garnish with grated nutmeg."],
+    "flavor": "Creamy Sweet",
+    "baseSpirit": "Bourbon",
+    "served": "On the Rocks",
+    "preparation": "Shaken",
+    "strength": "Medium"
+  },
+  {
+    "name": "Vesper",
+    "image": "vesper.png",
+    "history": "Pay tribute to 007 by mixing up his signature Vesper cocktail. The drink first appeared in Ian Fleming’s 1953 novel Casino Royale when Bond asked for “Three measures of Gordon’s, one of vodka, half a measure of Kina Lillet. Shake it very well until it’s ice-cold, then add a large thin slice of lemon peel. Got it?",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "3 oz",
+      "name": " Plymouth gin",
+      "type": "Gin"
+    }, {
+      "quantity": "1 oz",
+      "name": " Absolut Vodka",
+      "type": "Vodka"
+    }, {
+      "quantity": "1⁄2 oz",
+      "name": " Lillet Blanc",
+      "type": "Vermouth"
+    }],
+    "garnish": "Lemon peel",
+    "glass": "Cocktail",
+    "steps": ["Add all the ingredients to a mixing glass and fill with ice.", "Stir, and strain into a chilled cocktail glass.", "Twist a slice of lemon peel over the drink.", "Rub the lemon peel along the rim of the glass and drop it in."],
+    "flavor": "Spirit-forward",
+    "baseSpirit": ["Gin", "Vodka"],
+    "served": "Up",
+    "preparation": "Shaken",
+    "strength": "Strong"
+  },
+  {
+    "name": "Sazerac",
+    "image": "sazerac.png",
+    "history": "Forget the Hurricane. The Sazerac is what you should drink in New Orleans. One of America’s earliest cocktails, the Sazerac is a homegrown New Orleans specialty. Peychaud’s bitters are a key element and were created by Antoine Peychaud, a French Quarter pharmacist, who invented the cocktail in the 1830s. The Sazerac was originally made with cognac, but an insect epidemic destroyed many French vineyards and resulted in the lasting switch to rye whiskey.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "1",
+      "name": " Sugar cube",
+      "type": "Sugar"
+    }, {
+      "quantity": "3 dashes",
+      "name": " Peychaud's bitters",
+      "type": "Bitters"
+    }, {
+      "quantity": "2 dashes",
+      "name": " Angostura bitters",
+      "type": "Bitters"
+    }, {
+      "quantity": "2 oz",
+      "name": " Russell's Reserve rye whiskey",
+      "type": "Rye whiskey"
+    }, {
+      "quantity": "",
+      "name": " Pernod",
+      "type": "Absinthe"
+    }],
+    "garnish": "Orange peel",
+    "glass": "Rocks",
+    "steps": ["Rinse a chilled rocks glass with absinthe, discarding any excess, and set aside.", "In a mixing glass, muddle the sugar cube and both bitters.", "Add the rye, fill with ice and stir.", "Strain into the prepared glass.", "Twist a slice of orange peel over the surface to extract the oils and then discard."],
+    "flavor": "Spirit-forward",
+    "baseSpirit": ["Absinthe", "Rye Whiskey"],
+    "served": "Neat",
+    "preparation": "Stirred",
+    "strength": "Strong"
+  },
+  {
+    "name": "Harvey Wallbanger",
+    "image": "harvey-wallbanger.png",
+    "history": "The Harvey Wallbanger is a modern classic that combines a Screwdriver with the Italian liqueur Galliano. Reportedly born in the 50s, the cocktail was a hit in the 1970s. Recently, Galliano converted back to their original recipe so try this drink today if you want to relive the golden days of disco.",
+    "cocktailType": "Classic",
+    "ingredients": [{
+      "quantity": "1 1⁄4 oz",
+      "name": " Grey Goose",
+      "type": "Vodka"
+    }, {
+      "quantity": "3 oz",
+      "name": " Orange juice",
+      "type": "Juice"
+    }, {
+      "quantity": "1/2 oz",
+      "name": " Galliano L'Autentico",
+      "type": ""
+    }],
+    "garnish": "Orange slice",
+    "glass": "Tall",
+    "steps": ["Add the vodka and the orange juice to a tall glass filled with ice.", "Stir, and float the Galliano on top.", "Garnish with an orange slice."],
+    "flavor": ["Fruity", "Citrus-forward", "Sweet"],
+    "baseSpirit": "Vodka",
+    "served": "On the Rocks",
+    "preparation": "Stirred",
+    "strength": "Medium"
+  }
+]
